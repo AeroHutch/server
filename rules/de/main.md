@@ -2,7 +2,6 @@
 
 ## Sprachen
 - [Englisch](https://aerohutch.github.io/server/rules)
-- [Niederländisch](https://aerohutch.github.io/server/rules/nl)
 
 ## WARNUNG
 Wenn du gegen diese Regeln verstößt, kannst du gebannt werden, abhängig von der Schwere und dem Grund.
