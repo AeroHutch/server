@@ -1,8 +1,8 @@
 # These are the rules of the server.
 
 ## Languages
-- Dutch (W.I.P.)
-- German (W.I.P.)
+- [Dutch](https://aerohutch.github.io/server/rules/nl)
+- [German](https://aerohutch.github.io/server/rules/de)
 
 ## WARNING
 If you do any of these you may get a ban depending on the serverity and reason
