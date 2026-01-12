@@ -2,7 +2,6 @@
 
 ## Talen
 - [Engels](https://aerohutch.github.io/server/rules)
-- [Duits](https://aerohutch.github.io/server/rules/de)
 
 ## WAARSCHUWING
 Als je een van deze regels overtreedt, kun je een ban krijgen afhankelijk van de ernst en de reden.
