@@ -3,6 +3,7 @@
 ## Languages
 - [Dutch](https://aerohutch.github.io/server/rules/nl)
 - [German](https://aerohutch.github.io/server/rules/de)
+- [Spanish](https://aerohutch.github.io/server/rules/es)
 
 ## WARNING
 If you do any of these you may get a ban depending on the serverity and reason
